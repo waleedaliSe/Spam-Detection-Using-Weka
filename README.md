@@ -24,7 +24,7 @@ Following is example decsion tree.
 We are also comparing results with results get from Naive Bayes. It is a classification technique based on Bayes' Theorem with an assumption of independence among predictors. In simple terms, a Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature.
 <img src="https://github.com/waleedalinizami/IML-Smester-Project/blob/master/img/24.png">
 
-<h2>How to Run</h2>
+<h2>How to Run?</h2>
 <b>Source: </b><a href="http://www.cs.waikato.ac.nz/ml/weka/downloading.html">Downloading and installing Weka</a>
 <h3>1.	Normalize Data</h3>
 The dataset we get was in 5180 text files as shown in following screenshots.
