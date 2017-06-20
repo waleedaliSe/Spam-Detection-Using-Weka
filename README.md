@@ -71,6 +71,9 @@ I repeat the same procedure with Naïve Bayes shown in following snapshots.
 <img src="https://github.com/waleedalinizami/IML-Smester-Project/blob/master/img/21.png">
 <img src="https://github.com/waleedalinizami/IML-Smester-Project/blob/master/img/22.png">
 It shows different results with good accuracy. 
+
+<h2>Conclusion</h2>
+Email spamming is a common technique but can make heavy damage to user’s privacy. Currently, many anti-spam tools are available to fight against spam mails. But text classification is one the best ways to detect email spamming. We can improve it's accuracy with very big dataset and restrict our algorithms to ignore normal dictionary words and classify frequently used spam words.
 <h2>References</h2>
 [1] A. Anderson, M. Corney, O. de Vel, and G. Mohay."Identifying the 
 Authors of Suspect E-mail". Communications of the ACM, 2001.<br> 
