@@ -61,20 +61,20 @@ I repeat the same procedure with Naïve Bayes shown in following snapshots.
 It shows different results with good accuracy. 
 <h2>References</h2>
 [1] A. Anderson, M. Corney, O. de Vel, and G. Mohay."Identifying the 
-Authors of Suspect E-mail". Communications of the ACM, 2001. 
+Authors of Suspect E-mail". Communications of the ACM, 2001.<br> 
 [2] Shlomo Hershkop, Ke Wang, Weijen Lee, Olivier Nimeskern, German 
 Creamer, and Ryan Rowe, "Email Mining Toolkit Technical Manual". 
-(June 2006) Department of Computer Science Columbia University. 
+(June 2006) Department of Computer Science Columbia University. <br> 
 [3] Bron, C. and J. Kerbosch. "Algorithm 457: Finding all cliques of an 
-undirected graph." (1973). 
+undirected graph." (1973). <br> 
 [4] Ding Zhou et al and Ya Zhang, "Towards Discovering Organizational 
 Structure from Email Corpus". (2005) Fourth International Conference on 
-Machine Learning and Application. 
+Machine Learning and Application. <br> 
 [5]  Giuseppe Carenini, Raymond T. Ng and Xiaodong Zhou , "Scalable 
 Discovery of Hidden Emails from Large Folders". Department of 
-Computer Science, University of British Columbia, Canada. 
+Computer Science, University of British Columbia, Canada. <br> 
 [6] Hung-Ching Chen el al, "Discover The Power of Social and Hidden 
 Curriculum to Decision Making: Experiments with Enron Email and 
 Movie Newsgroups". Sixth International Conference on Machine 
-Learning and Applications. 
+Learning and Applications. <br> 
 
