@@ -35,7 +35,7 @@ The dataset we get was in 5180 text files as shown in following screenshots.
  <img src="https://github.com/waleedalinizami/IML-Smester-Project/blob/master/img/3.png">
  (One File)<br>
  As you can see in above screenshots that data is not normalized and well manage and we cannot give it as input to WEKA. We need all data in one arff file to give it WEKA for training. So for this purpose we use following command in command line interface of WEKA. 
-“java weka.core.converters.TextDirectoryLoader –dir F:/Spam_Mails > F:/Output.arff”
+“java weka.core.converters.TextDirectoryLoader -dir F:/Spam_mails > F:/text_example.arff”
 <img src="https://github.com/waleedalinizami/IML-Smester-Project/blob/master/img/4.png">
 The output arff file is following.
 <img src="https://github.com/waleedalinizami/IML-Smester-Project/blob/master/img/5.png">
